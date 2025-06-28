@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EDCF4&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Prajwal+Zaware;Backend+Developer+%7C+Golang+%7C+Node.js;I+build+scalable+APIs+and+systems+%E2%9A%99%EF%B8%8F;Redis+%7C+Kafka+%7C+Docker+%7C+PostgreSQL+%7C+Microservices" alt="Typing SVG" />
+</p>
+
 # 👋 Hey, I'm Prajwal Zaware
 
 **🚀 Backend Developer | Golang | Node.js | Redis | Kafka | Docker | PostgreSQL | Microservices**
