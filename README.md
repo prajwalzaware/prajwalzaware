@@ -46,7 +46,7 @@ I get excited by clean commit history, efficient SQL queries, and perfectly name
 
 ## 📫 Connect With Me
 - LinkedIn: [prajwalzaware](https://www.linkedin.com/in/prajwalzaware/)
-- GitHub: [@prajwalzaware](https://github.com/prajwalzaware)
+- GitHub: [@prajwalzaware](https://github.com/prajwal-zaware)
 - Portfolio: Coming Soon!
 
 # 💻 Tech Stack:
